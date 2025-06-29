@@ -1,6 +1,6 @@
-# Tracery Pro - Aplicativo de Tracking de Vídeo
+# Tracking Pro - Aplicativo de Tracking de Vídeo
 
-Tracery Pro é um aplicativo de desktop para tracking de objetos em vídeos, com várias opções de visualização e personalização.
+Tracking Pro é um aplicativo de desktop para tracking de objetos em vídeos, com várias opções de visualização e personalização.
 
 ## Requisitos
 
